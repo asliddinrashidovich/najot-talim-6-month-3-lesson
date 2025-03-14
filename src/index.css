@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Rubik', sans-serif;
+}
+.btn {
+  background: linear-gradient(2.79deg, #F35F2F -13.68%, rgba(243, 95, 47, 0.75) 121.16%);
+}
+* {
+  transition: all ease 0.3s;
+}
+.card {
+  box-shadow: 0px 4px 20px 0px  #7878784f;
+}
