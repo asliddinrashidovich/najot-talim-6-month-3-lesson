@@ -9,7 +9,7 @@ function Hero() {
                 service clients expectation and satisfaction guarantee.</p>
                 <button className="py-[12px] px-[24px] rounded-[5px] text-[14px] font-[500] leading-[100%] text-white cursor-pointer btn ">Free consultation</button>
             </div>
-            <img  src="/public/assets/hero (2).png" alt="hero" />
+            <img  src="/assets/hero (2).png" alt="hero" />
         </div>
     </div>
   )
