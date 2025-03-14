@@ -3,7 +3,7 @@ function Header() {
     <div className="fixed w-full py-[20px] bg-white z-[100]" >
         <div className="max-w-[1170px] mx-auto justify-between flex items-center px-[30px] mb-[20px] md:mb-[0]">
             <a href="#">
-                <img src="/public/assets/header_logo.svg" alt="header logo" />
+                <img src="/assets/header_logo.svg" alt="header logo" />
             </a>
             <ul className="md:flex gap-[60px] hidden">
                 <li>
